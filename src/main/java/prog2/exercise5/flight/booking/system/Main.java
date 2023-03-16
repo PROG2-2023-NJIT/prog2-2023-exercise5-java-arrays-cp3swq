@@ -1,5 +1,6 @@
 package prog2.exercise5.flight.booking.system;
 
+import java.time.LocalDate;
 import java.util.Scanner;
 
 /**
@@ -19,4 +20,3 @@ public class Main
         flightBooking.displayTripDetails();
     }
 }
-
